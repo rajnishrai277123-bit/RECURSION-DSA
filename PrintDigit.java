@@ -1,6 +1,7 @@
 public class PrintDigit{
     static void print(int num){
         if(num==0){
+            System.out.println("wapas jao");
             return;
         }
         int digit=num%10;
