@@ -17,7 +17,7 @@ public class FindTarget{
         int target=9;
 
         int ans=print(arr,i,target);
-         System.out.println("found at index"+ " "+ans);
-         System.out.println("found at index"+ " "+ans);
+         System.out.println(" target found at index"+ " "+ans);
+         System.out.println(" target found at index"+ " "+ans);
     }
 }
